@@ -1,5 +1,5 @@
 
-![](../../Imagenes/Imagen12.png)
+![](../../../Imagenes/Imagen12.png)
 
 
 ````ruby
