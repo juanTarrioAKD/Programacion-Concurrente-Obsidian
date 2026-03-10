@@ -1,5 +1,5 @@
 
-![[Tercer Anio/Concurrente/Imagenes/Imagen6.png]]
+![](../../Imagenes/Imagen6.png)
 
 
 ````c
