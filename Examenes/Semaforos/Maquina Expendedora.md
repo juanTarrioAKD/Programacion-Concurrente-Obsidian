@@ -1,5 +1,5 @@
 
-![[Imagen11.png]]
+![](../../Imagenes/Imagen11.png)
 
 ````c
 
