@@ -1,5 +1,5 @@
 
-![[Tercer Anio/Concurrente/Imagenes/Imagen4.png]]
+![](../../Imagenes/Imagen4.png)
 
 ````c
 sem mutexLlegada = 1;
