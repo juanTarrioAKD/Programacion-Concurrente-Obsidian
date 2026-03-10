@@ -1,5 +1,5 @@
 
-![[Tercer Anio/Concurrente/Imagenes/Imagen7.png]]
+![](../../Imagenes/Imagen7.png)
 
 ````c
 sem turnos[20] = 0;
